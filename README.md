@@ -4,7 +4,7 @@
 
 <p>
     <div align="center">
-    <b>📅 # Today's Visit📅</b>
+    <b>📅 # Today's Visit 📅</b>
     <br/>
     <br/>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDivjason%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
@@ -12,7 +12,7 @@
 </p>
 <p>
    <div align="center">
-       <b>💻 # Main Language💻</b>
+       <b>💻 # Main Language 💻</b>
        <br/>
        <br/>
        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
@@ -33,17 +33,14 @@
    </div>
 </p>
 <p>
-    <h1>#Git-Hub Stats</h1>
-</p>
-
-<div align="center">
+    <div align="center">
+    <b>🎻 # Git-Hub Stats 🎻</b>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divjason&show_icons=true&theme=radical)
-    
-</div>
-
-<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divjason&layout=compact)
+    
+    </div>
+</p>
 
-</div>
+
