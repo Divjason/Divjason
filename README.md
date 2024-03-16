@@ -10,7 +10,7 @@
 <p>
    <h1>#Main Language</h1>
    <div align="center">
-       <div align=center>💻Now Working💻</div>
+       <div align=center style="font-size: x-large">💻Now Working💻</div>
        <br/>
        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -39,3 +39,8 @@
     
 </div>
 
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divjason&layout=compact)
+
+</div>
