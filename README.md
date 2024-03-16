@@ -33,4 +33,4 @@
     <h1>#Git-Hub Stats</h1>
 </p>
 
-https://github-readme-stats.vercel.app/api?username=Divjason&show_icons=true&theme=radical
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divjason&show_icons=true&theme=radical)]
