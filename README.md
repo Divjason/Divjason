@@ -59,12 +59,12 @@
     <b>🎻 # Git-Hub Stats 🎻</b>
     <br/>
     <br/>
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divjason&layout=compact)
     <br/>
     <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divjason&show_icons=true&theme=radical) 
-    
+-->
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
