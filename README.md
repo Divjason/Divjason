@@ -35,10 +35,9 @@
 <p>
     <div align="center">
     <b>🎻 # Git-Hub Stats 🎻</b>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divjason&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divjason&layout=compact)
+    <br/>
+        
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divjason&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divjason&layout=compact)
     
     </div>
 </p>
