@@ -10,6 +10,9 @@
    <div align="center">
        <div>Basic</div>
        <img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=#E34F26" />
+       <img src="https://img.shields.io/badge/css3-20232a.svg?style=for-the-badge&logo=css3&logoColor=#1572B6" />
+       <div>Basic</div>
+       <img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=#E34F26" />
        <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
    </div>
 </p>
