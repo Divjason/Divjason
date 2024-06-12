@@ -16,7 +16,7 @@
        <b>💻 # Main Skill & Language 💻</b>
        <br/>
        <br/>
-       <img style="width: 200px" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
        <img src="https://img.shields.io/badge/FontAwesome-528DD7?style=flat-square&logo=fontawesome&logoColor=white"/>
        <img src="https://img.shields.io/badge/GoogleFonts-4285F4?style=flat-square&logo=googlefonts&logoColor=white"/>
        <br/>
